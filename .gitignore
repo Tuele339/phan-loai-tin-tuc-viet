@@ -1,0 +1,7 @@
+data/*
+!data/README.md
+model/nb_model.pkl
+__pycache__/
+*.pyc
+.vscode/
+external_test/

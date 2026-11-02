@@ -1,0 +1,19 @@
+Accuracy: 0.8728
+Macro-F1: 0.8443
+
+                  precision    recall  f1-score   support
+
+chinh_tri_xa_hoi       0.73      0.92      0.81      2557
+        doi_song       0.89      0.64      0.74      1039
+        khoa_hoc       0.95      0.38      0.54       783
+      kinh_doanh       0.90      0.85      0.87      1566
+       phap_luat       0.94      0.87      0.90      1531
+        suc_khoe       0.86      0.94      0.90      1760
+        the_gioi       0.93      0.90      0.92      1923
+        the_thao       0.99      0.96      0.98      2393
+         van_hoa       0.81      0.95      0.88      1866
+         vi_tinh       0.94      0.88      0.91      1408
+
+        accuracy                           0.87     16826
+       macro avg       0.89      0.83      0.84     16826
+    weighted avg       0.88      0.87      0.87     16826

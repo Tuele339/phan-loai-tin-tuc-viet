@@ -1,0 +1,10 @@
+chinh_tri_xa_hoi: đh, trường, học_bổng, học_sinh, thi, du_lịch, giao_thông, giáo_dục, du_học, ubnd
+doi_song: bạn, chồng, ấy, hãy, vợ, from, yêu, tamsu, sent, món
+khoa_hoc: loài, nghiên_cứu, trái_đất, vũ_trụ, khoa_học, chúng, khảo_cổ, đực, robot, khủng_long
+kinh_doanh: doanh_nghiệp, giá, cổ_phiếu, xuất_khẩu, đầu_tư, thị_trường, thương_mại, tăng, ngân_hàng, giao_dịch
+phap_luat: công_an, án, bị_cáo, điều_tra, tand, khởi_tố, bị_can, tội, tù, khai
+suc_khoe: bệnh, thuốc, bệnh_nhân, da, viêm, điều_trị, ung_thư, uống, bác_sĩ, cơ_thể
+the_gioi: iraq, tổng_thống, bom, al, bầu_cử, israel, palestine, hạt_nhân, iran, bush
+the_thao: đội, trận, cầu_thủ, bóng, hlv, thắng, trận_đấu, thi_đấu, sân, vô_địch
+van_hoa: phim, ca_sĩ, hát, diễn_viên, đạo_diễn, vai, khán_giả, nhạc, ca_khúc, nhạc_sĩ
+vi_tinh: phần_mềm, máy_tính, microsoft, windows, internet, file, mạng, game, google, bảo_mật

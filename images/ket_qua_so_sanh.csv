@@ -1,0 +1,6 @@
+﻿Mô hình,Accuracy,Macro-F1,Recall khoa_hoc,Huấn luyện (giây),Dự đoán (giây)
+Naive Bayes cơ bản (alpha=1.0),0.8728,0.8443,0.375,0.41,0.04
+"Naive Bayes tinh chỉnh (alpha=0.1, prior đều)",0.8957,0.8855,0.765,0.44,0.04
+Naive Bayes tinh chỉnh + chi-square (k=10000),0.8927,0.8822,0.792,0.4,0.02
+kNN cosine (k=11),0.8565,0.8364,0.559,0.75,74.0
+"Decision Tree (k=2000, max_depth=40)",0.7488,0.7307,0.462,64.11,0.03
