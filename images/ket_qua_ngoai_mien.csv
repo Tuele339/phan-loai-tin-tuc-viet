@@ -1,2 +1,31 @@
-﻿Bài,Thực tế,Dự đoán,Xác suất,Hạng 2,Đúng
-chinh_tri_xa_hoi/bai1.txt,chinh_tri_xa_hoi,suc_khoe,0.616,chinh_tri_xa_hoi,False
+﻿Bài,Thực tế,Dự đoán,Xác suất,Hạng 2,Hạng 3,Hạng của nhãn thật,Đúng
+chinh_tri_xa_hoi/bai1.txt,chinh_tri_xa_hoi,suc_khoe,0.616,chinh_tri_xa_hoi,khoa_hoc,2,False
+chinh_tri_xa_hoi/bai2.txt,chinh_tri_xa_hoi,kinh_doanh,0.445,chinh_tri_xa_hoi,phap_luat,2,False
+chinh_tri_xa_hoi/bai3.txt,chinh_tri_xa_hoi,chinh_tri_xa_hoi,0.923,kinh_doanh,vi_tinh,1,True
+doi_song/bai1.txt,doi_song,van_hoa,0.887,vi_tinh,the_gioi,5,False
+doi_song/bai2.txt,doi_song,chinh_tri_xa_hoi,0.306,doi_song,van_hoa,2,False
+doi_song/bai3.txt,doi_song,chinh_tri_xa_hoi,0.804,kinh_doanh,phap_luat,4,False
+khoa_hoc/bai1.txt,khoa_hoc,kinh_doanh,0.704,vi_tinh,chinh_tri_xa_hoi,4,False
+khoa_hoc/bai2.txt,khoa_hoc,vi_tinh,0.893,khoa_hoc,chinh_tri_xa_hoi,2,False
+khoa_hoc/bai3.txt,khoa_hoc,vi_tinh,0.943,khoa_hoc,kinh_doanh,2,False
+kinh_doanh/bai1.txt,kinh_doanh,kinh_doanh,1.0,chinh_tri_xa_hoi,phap_luat,1,True
+kinh_doanh/bai2.txt,kinh_doanh,kinh_doanh,0.999,vi_tinh,chinh_tri_xa_hoi,1,True
+kinh_doanh/bai3.txt,kinh_doanh,chinh_tri_xa_hoi,0.59,kinh_doanh,phap_luat,2,False
+phap_luat/bai1.txt,phap_luat,kinh_doanh,0.758,phap_luat,chinh_tri_xa_hoi,2,False
+phap_luat/bai2.txt,phap_luat,van_hoa,0.931,doi_song,khoa_hoc,9,False
+phap_luat/bai3.txt,phap_luat,phap_luat,1.0,chinh_tri_xa_hoi,kinh_doanh,1,True
+suc_khoe/bai1.txt,suc_khoe,kinh_doanh,0.418,the_gioi,khoa_hoc,7,False
+suc_khoe/bai2.txt,suc_khoe,suc_khoe,1.0,doi_song,khoa_hoc,1,True
+suc_khoe/bai3.txt,suc_khoe,suc_khoe,1.0,khoa_hoc,doi_song,1,True
+the_gioi/bai1.txt,the_gioi,the_gioi,1.0,chinh_tri_xa_hoi,kinh_doanh,1,True
+the_gioi/bai2.txt,the_gioi,the_gioi,0.988,van_hoa,kinh_doanh,1,True
+the_gioi/bai3.txt,the_gioi,the_gioi,0.994,vi_tinh,kinh_doanh,1,True
+the_thao/bai1.txt,the_thao,the_thao,0.999,khoa_hoc,van_hoa,1,True
+the_thao/bai2.txt,the_thao,the_thao,0.967,van_hoa,the_gioi,1,True
+the_thao/bai3.txt,the_thao,the_thao,1.0,van_hoa,the_gioi,1,True
+van_hoa/bai1.txt,van_hoa,kinh_doanh,0.496,chinh_tri_xa_hoi,vi_tinh,4,False
+van_hoa/bai2.txt,van_hoa,doi_song,0.684,van_hoa,chinh_tri_xa_hoi,2,False
+van_hoa/bai3.txt,van_hoa,vi_tinh,0.998,van_hoa,the_gioi,2,False
+vi_tinh/bai1.txt,vi_tinh,vi_tinh,1.0,khoa_hoc,chinh_tri_xa_hoi,1,True
+vi_tinh/bai2.txt,vi_tinh,vi_tinh,1.0,khoa_hoc,doi_song,1,True
+vi_tinh/bai3.txt,vi_tinh,vi_tinh,0.983,khoa_hoc,suc_khoe,1,True
